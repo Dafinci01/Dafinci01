@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dafinci01
+- 👋 Hi, I’m @Dafinci
 
 - 👀 I’m interested in C, Mysql, Css....
 - 🌱 I’m currently learning C, Java Script, Css

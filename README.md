@@ -7,7 +7,7 @@
 Reach me on odelanadavidp20@gmail.com..
 
 
-
+currently learning how to use 
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />

@@ -17,23 +17,32 @@ my programming laguages are
   <!-- C -->
   <img src="cdn.jsdelivr.net" height="30" alt="C logo" />
   <img width="10" />
+
+
+<div align="center">
+  <!-- C -->
+  <img src="cdn.jsdelivr.net" height="30" alt="C" />
+  <img width="12" />
   <!-- C# -->
-  <img src="cdn.jsdelivr.net" height="30" alt="C# logo" />
-  <img width="10" />
+  <img src="cdn.jsdelivr.net" height="30" alt="C#" />
+  <img width="12" />
   <!-- Elixir -->
-  <img src="cdn.jsdelivr.net" height="30" alt="Elixir logo" />
-  <img width="10" />
+  <img src="cdn.jsdelivr.net" height="30" alt="Elixir" />
+  <img width="12" />
   <!-- Phoenix -->
-  <img src="cdn.jsdelivr.net" height="30" alt="Phoenix logo" />
-  <img width="10" />
+  <img src="cdn.jsdelivr.net" height="30" alt="Phoenix" />
+  <img width="12" />
   <!-- Python -->
-  <img src="cdn.jsdelivr.net" height="30" alt="Python logo" />
-  <img width="10" />
+  <img src="cdn.jsdelivr.net" height="30" alt="Python" />
+  <img width="12" />
   <!-- JavaScript -->
-  <img src="cdn.jsdelivr.net" height="30" alt="JavaScript logo" />
-  <img width="10" />
+  <img src="cdn.jsdelivr.net" height="30" alt="JavaScript" />
+  <img width="12" />
   <!-- TypeScript -->
-  <img src="cdn.jsdelivr.net" height="30" alt="TypeScript logo" />
+  <img src="cdn.jsdelivr.net" height="30" alt="TypeScript" />
+</div>
+
+    
 </div>
 
   

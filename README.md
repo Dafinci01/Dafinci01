@@ -13,6 +13,29 @@ my programming laguages are
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="20" />
+  <div align="center">
+  <!-- C -->
+  <img src="cdn.jsdelivr.net" height="30" alt="C logo" />
+  <img width="10" />
+  <!-- C# -->
+  <img src="cdn.jsdelivr.net" height="30" alt="C# logo" />
+  <img width="10" />
+  <!-- Elixir -->
+  <img src="cdn.jsdelivr.net" height="30" alt="Elixir logo" />
+  <img width="10" />
+  <!-- Phoenix -->
+  <img src="cdn.jsdelivr.net" height="30" alt="Phoenix logo" />
+  <img width="10" />
+  <!-- Python -->
+  <img src="cdn.jsdelivr.net" height="30" alt="Python logo" />
+  <img width="10" />
+  <!-- JavaScript -->
+  <img src="cdn.jsdelivr.net" height="30" alt="JavaScript logo" />
+  <img width="10" />
+  <!-- TypeScript -->
+  <img src="cdn.jsdelivr.net" height="30" alt="TypeScript logo" />
+</div>
+
   
 </div>
 
